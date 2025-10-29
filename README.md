@@ -1,4 +1,4 @@
-<h1>**DEPRECATED**</h1>
+<h1>DEPRECATED</h1>
 
 This repository is no longer maintained. 
 Please refer to [@humansecurity/node-express-enforcer](https://github.com/PerimeterX/node-express-enforcer) instead.
