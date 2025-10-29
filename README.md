@@ -1,3 +1,8 @@
+**DEPRECATED**
+
+This repository is no longer maintained. 
+Please refer to [@humansecurity/node-express-enforcer](https://github.com/your-org/node-express-enforcer) instead.
+
 [![Build Status](https://travis-ci.org/PerimeterX/perimeterx-node-core.svg?branch=master)](https://travis-ci.org/PerimeterX/perimeterx-node-core)
 [![Known Vulnerabilities](https://snyk.io/test/github/PerimeterX/perimeterx-node-core/badge.svg?targetFile=package.json)](https://snyk.io/test/github/PerimeterX/perimeterx-node-core?targetFile=package.json)
 
